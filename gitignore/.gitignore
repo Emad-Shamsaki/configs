@@ -1,0 +1,11 @@
+/EWARM/S4001_PLC
+/EWARM/S4001_PLC.dep
+/EWARM/settings
+Debug/
+Release/
+Output
+.vscode/
+cpBot.bat
+sync_dirs.txt
+lib/.clang-format
+lib/format_lib.ps1
