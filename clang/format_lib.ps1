@@ -1,4 +1,4 @@
-$clangPath = "C:\Users\uie059\.vscode\extensions\ms-vscode.cpptools-1.30.4-win32-x64\LLVM\bin\clang-format.exe"
+$clangPath = "C:\Users\uie059\.vscode\extensions\ms-vscode.cpptools-1.30.5-win32-x64\LLVM\bin\clang-format.exe"
 
 if (-not (Test-Path $clangPath)) {
     Write-Error "Error: clang-format.exe not found at $clangPath"
