@@ -11,7 +11,7 @@ BreakBeforeBraces: Allman
 BinPackArguments: 'false'
 BinPackParameters: 'false'
 Cpp11BracedListStyle: 'false'
-ColumnLimit: 125 
+ColumnLimit: 125
 NamespaceIndentation: All
 SpaceAfterTemplateKeyword: 'false'
 SpaceBeforeCtorInitializerColon: 'true'
